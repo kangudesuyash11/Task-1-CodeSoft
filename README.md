@@ -1,2 +1,2 @@
-# Task-1-CodeSoft
-Subbimission of CodeSoft Internship : Task 1
+# Task-1
+Subbimission of  Internship : Task 1
